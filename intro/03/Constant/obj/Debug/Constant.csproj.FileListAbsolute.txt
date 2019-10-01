@@ -1,0 +1,7 @@
+D:\Projects\intro\03\Constant\bin\Debug\Constant.exe.config
+D:\Projects\intro\03\Constant\bin\Debug\Constant.exe
+D:\Projects\intro\03\Constant\bin\Debug\Constant.pdb
+D:\Projects\intro\03\Constant\obj\Debug\Constant.csprojAssemblyReference.cache
+D:\Projects\intro\03\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\Projects\intro\03\Constant\obj\Debug\Constant.exe
+D:\Projects\intro\03\Constant\obj\Debug\Constant.pdb

@@ -1,0 +1,7 @@
+D:\Projects\intro\04\Variable\bin\Debug\Variable.exe.config
+D:\Projects\intro\04\Variable\bin\Debug\Variable.exe
+D:\Projects\intro\04\Variable\bin\Debug\Variable.pdb
+D:\Projects\intro\04\Variable\obj\Debug\Variable.csprojAssemblyReference.cache
+D:\Projects\intro\04\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+D:\Projects\intro\04\Variable\obj\Debug\Variable.exe
+D:\Projects\intro\04\Variable\obj\Debug\Variable.pdb

@@ -1,0 +1,6 @@
+D:\Projects\intro\06\Test06\bin\Debug\Test06.exe.config
+D:\Projects\intro\06\Test06\bin\Debug\Test06.exe
+D:\Projects\intro\06\Test06\bin\Debug\Test06.pdb
+D:\Projects\intro\06\Test06\obj\Debug\Test06.csproj.CoreCompileInputs.cache
+D:\Projects\intro\06\Test06\obj\Debug\Test06.exe
+D:\Projects\intro\06\Test06\obj\Debug\Test06.pdb

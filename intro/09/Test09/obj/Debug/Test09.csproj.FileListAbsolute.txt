@@ -1,0 +1,7 @@
+D:\Projects\intro\09\Test09\bin\Debug\Test09.exe.config
+D:\Projects\intro\09\Test09\bin\Debug\Test09.exe
+D:\Projects\intro\09\Test09\bin\Debug\Test09.pdb
+D:\Projects\intro\09\Test09\obj\Debug\Test09.csprojAssemblyReference.cache
+D:\Projects\intro\09\Test09\obj\Debug\Test09.csproj.CoreCompileInputs.cache
+D:\Projects\intro\09\Test09\obj\Debug\Test09.exe
+D:\Projects\intro\09\Test09\obj\Debug\Test09.pdb

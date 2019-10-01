@@ -1,0 +1,7 @@
+D:\Projects\intro\08\ADtest08\bin\Debug\ADtest08.exe.config
+D:\Projects\intro\08\ADtest08\bin\Debug\ADtest08.exe
+D:\Projects\intro\08\ADtest08\bin\Debug\ADtest08.pdb
+D:\Projects\intro\08\ADtest08\obj\Debug\ADtest08.csprojAssemblyReference.cache
+D:\Projects\intro\08\ADtest08\obj\Debug\ADtest08.csproj.CoreCompileInputs.cache
+D:\Projects\intro\08\ADtest08\obj\Debug\ADtest08.exe
+D:\Projects\intro\08\ADtest08\obj\Debug\ADtest08.pdb
