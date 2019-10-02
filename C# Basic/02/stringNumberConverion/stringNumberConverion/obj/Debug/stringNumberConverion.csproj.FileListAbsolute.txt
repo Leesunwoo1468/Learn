@@ -1,0 +1,7 @@
+D:\Projects\Learn\C# Basic\02\stringNumberConverion\stringNumberConverion\bin\Debug\stringNumberConverion.exe.config
+D:\Projects\Learn\C# Basic\02\stringNumberConverion\stringNumberConverion\bin\Debug\stringNumberConverion.exe
+D:\Projects\Learn\C# Basic\02\stringNumberConverion\stringNumberConverion\bin\Debug\stringNumberConverion.pdb
+D:\Projects\Learn\C# Basic\02\stringNumberConverion\stringNumberConverion\obj\Debug\stringNumberConverion.csprojAssemblyReference.cache
+D:\Projects\Learn\C# Basic\02\stringNumberConverion\stringNumberConverion\obj\Debug\stringNumberConverion.csproj.CoreCompileInputs.cache
+D:\Projects\Learn\C# Basic\02\stringNumberConverion\stringNumberConverion\obj\Debug\stringNumberConverion.exe
+D:\Projects\Learn\C# Basic\02\stringNumberConverion\stringNumberConverion\obj\Debug\stringNumberConverion.pdb

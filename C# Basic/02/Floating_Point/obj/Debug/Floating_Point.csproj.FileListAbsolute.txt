@@ -1,0 +1,7 @@
+D:\Projects\Learn\C# Basic\02\Floating_Point\bin\Debug\Floating_Point.exe.config
+D:\Projects\Learn\C# Basic\02\Floating_Point\bin\Debug\Floating_Point.exe
+D:\Projects\Learn\C# Basic\02\Floating_Point\bin\Debug\Floating_Point.pdb
+D:\Projects\Learn\C# Basic\02\Floating_Point\obj\Debug\Floating_Point.csprojAssemblyReference.cache
+D:\Projects\Learn\C# Basic\02\Floating_Point\obj\Debug\Floating_Point.csproj.CoreCompileInputs.cache
+D:\Projects\Learn\C# Basic\02\Floating_Point\obj\Debug\Floating_Point.exe
+D:\Projects\Learn\C# Basic\02\Floating_Point\obj\Debug\Floating_Point.pdb
